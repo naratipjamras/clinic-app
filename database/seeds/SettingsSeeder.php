@@ -20,7 +20,7 @@ class SettingsSeeder extends Seeder
 
          DB::table('settings')->insert([
             'option_name' => 'address',
-            'option_value' => 'Chingmai',
+            'option_value' => 'Chaingmai',
         ]);
 
          DB::table('settings')->insert([
@@ -114,7 +114,7 @@ class SettingsSeeder extends Seeder
             'name' => 'admin',
             'email' => 'admin@gmail.com',
             'password' => Hash::make('admin'),
-            'role' => '123456789',
+            'role' => '123456',
         ]);
     }
 }

@@ -15,17 +15,17 @@ class DatabaseSeeder extends Seeder
     {
         DB::table('settings')->insert([
             'option_name' => 'system_name',
-            'option_value' => 'Doctorino Doctor Chamber',
+            'option_value' => 'CLINIC APP',
         ]);
 
         DB::table('settings')->insert([
             'option_name' => 'address',
-            'option_value' => '150 Logts : Bloc 16 N° 02 OUED TARFA - Draria',
+            'option_value' => 'Chaingmai',
         ]);
 
         DB::table('settings')->insert([
             'option_name' => 'phone',
-            'option_value' => '+213 657 04 19 93',
+            'option_value' => '0856159091',
         ]);
 
         DB::table('settings')->insert([
@@ -35,12 +35,12 @@ class DatabaseSeeder extends Seeder
 
         DB::table('settings')->insert([
             'option_name' => 'currency',
-            'option_value' => '$',
+            'option_value' => '฿',
         ]);
 
         DB::table('settings')->insert([
             'option_name' => 'vat',
-            'option_value' => '19',
+            'option_value' => '7',
         ]);
 
         DB::table('settings')->insert([
@@ -112,8 +112,8 @@ class DatabaseSeeder extends Seeder
 
         DB::table('users')->insert([
             'name' => 'doctorino',
-            'email' => 'doctor@gmail.com',
-            'password' => Hash::make('doctorino'),
+            'email' => 'admin@gmail.com',
+            'password' => Hash::make('123456'),
             'role' => 'admin',
         ]);
     }
