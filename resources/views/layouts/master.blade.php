@@ -30,10 +30,11 @@
             <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
                <!-- Sidebar - Brand -->
                <a class="sidebar-brand d-flex align-items-center justify-content-center" href="{{ route('home') }}">
-                  <div class="sidebar-brand-icon rotate-n-15">
-                     <i class="fas fa-user-md"></i>
+                  <div class="sidebar-brand-icon ">
+{{--                     <i class="fas fa-user-md"></i>--}}
+                    <div class="bg-login-image" style="color: white !important; width: 80px;height: 80px;"></div>
                   </div>
-                  <div class="sidebar-brand-text mx-3">Clinic App <sup>1.0</sup></div>
+                  <div class="sidebar-brand-text mx-2">Clinic App</div>
                </a>
                <!-- Divider -->
                <hr class="sidebar-divider my-0">
