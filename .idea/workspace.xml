@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d8ca70c-e0f7-4714-9e22-1eb00c8422f1" name="Default Changelist" comment="fix logo">
+    <list default="true" id="1d8ca70c-e0f7-4714-9e22-1eb00c8422f1" name="Default Changelist" comment="fix readme">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +164,7 @@
       <workItem from="1629616895584" duration="1002000" />
       <workItem from="1629635565570" duration="634000" />
       <workItem from="1629682086683" duration="328000" />
-      <workItem from="1629682588554" duration="5859000" />
+      <workItem from="1629682588554" duration="5912000" />
     </task>
     <task id="LOCAL-00001" summary="fix logo">
       <created>1629688962534</created>
@@ -173,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629688962534</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix readme">
+      <created>1629689029982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1629689029982</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +200,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fix logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix logo" />
+    <MESSAGE value="fix readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix readme" />
   </component>
 </project>
