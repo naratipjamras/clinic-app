@@ -15,4 +15,4 @@
 - `npm install`
 - `npm run dev`
 - `php artisan serve`
-- Login admin@gmail.com with password 123456
+- Login admin@gmail.com with password admin
