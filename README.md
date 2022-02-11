@@ -1,3 +1,5 @@
+![alt text](https://github.com/naratipjamras/clinic-app/blob/main/Clinic.PNG)
+  
 ## Laravel Clinic App
 - Login to Admin (Doctor) Backoffice.
 - Manage Patient, Drug, Appointment, Test, Prescription, Billing List.
